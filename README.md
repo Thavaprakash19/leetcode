@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Thavaprakash19/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0198-house-robber](https://github.com/Thavaprakash19/leetcode/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/Thavaprakash19/leetcode/tree/master/0392-is-subsequence) |
 ## Queue
 |  |
@@ -42,4 +43,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Thavaprakash19/leetcode/tree/master/0001-two-sum) |
+| [0198-house-robber](https://github.com/Thavaprakash19/leetcode/tree/master/0198-house-robber) |
 <!---LeetCode Topics End-->

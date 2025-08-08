@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Thavaprakash19/leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Thavaprakash19/leetcode/tree/master/0062-unique-paths) |
 | [0172-factorial-trailing-zeroes](https://github.com/Thavaprakash19/leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0909-stone-game](https://github.com/Thavaprakash19/leetcode/tree/master/0909-stone-game) |
@@ -69,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0909-stone-game](https://github.com/Thavaprakash19/leetcode/tree/master/0909-stone-game) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Thavaprakash19/leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->

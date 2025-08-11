@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Thavaprakash19/leetcode/tree/master/0001-two-sum) |
+| [0074-search-a-2d-matrix](https://github.com/Thavaprakash19/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0198-house-robber](https://github.com/Thavaprakash19/leetcode/tree/master/0198-house-robber) |
 | [0909-stone-game](https://github.com/Thavaprakash19/leetcode/tree/master/0909-stone-game) |
 ## Math
@@ -74,4 +75,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Thavaprakash19/leetcode/tree/master/0050-powx-n) |
+## Binary Search
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/Thavaprakash19/leetcode/tree/master/0074-search-a-2d-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/Thavaprakash19/leetcode/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->

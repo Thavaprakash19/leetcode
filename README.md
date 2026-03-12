@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Thavaprakash19/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Thavaprakash19/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/Thavaprakash19/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Thavaprakash19/leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Thavaprakash19/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## String
@@ -44,12 +45,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Thavaprakash19/leetcode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Thavaprakash19/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Thavaprakash19/leetcode/tree/master/0001-two-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Thavaprakash19/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0169-majority-element](https://github.com/Thavaprakash19/leetcode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Thavaprakash19/leetcode/tree/master/0198-house-robber) |
 | [0909-stone-game](https://github.com/Thavaprakash19/leetcode/tree/master/0909-stone-game) |
 ## Math
@@ -66,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Thavaprakash19/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Thavaprakash19/leetcode/tree/master/0242-valid-anagram) |
 ## Game Theory
 |  |
@@ -83,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Thavaprakash19/leetcode/tree/master/0074-search-a-2d-matrix) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Thavaprakash19/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
